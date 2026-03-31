@@ -8,10 +8,10 @@
 ## 📸 Skrinshot (Preview)
 
 <div align="center">
-  <!-- O'yiningizdan skrinshot olib, loyiha papkasiga 'preview.png' nomi bilan joylang va pastdagi yo'lni yangilang -->
-  <img src="./images/image.png.png" alt="Snake PRO Preview" width="600px" style="border-radius: 20px; border: 2px solid #10b981;">
+  <img src="images/image.png" alt="Snake PRO Preview" width="600px" style="border-radius: 20px; border: 2px solid #10b981;">
   <p><i>Cyberpunk uslubidagi neon interfeys va silliq animatsiyalar</i></p>
 </div>
+
 
 ---
 
